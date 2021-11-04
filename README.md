@@ -17,7 +17,7 @@ I enjoy working in teams and helping everyone to reach a common goal. There is n
 | COURSE | Description | Place | Year |
 | ----------- | ----------- | ----------- | ----------- |
 | ESO | Educación Secundaria Obligatoria | La Anunciata Fesd | 2017 |
-| SMIR | Sistemas MicroInformáticos y Redes | IES .Tudela | 2019 |
+| SMIR | Sistemas MicroInformáticos y Redes | CIP Eti.Tudela | 2019 |
 | DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2021 |
 
 ## Hobbies
