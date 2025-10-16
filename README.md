@@ -1,6 +1,6 @@
 # Saul Caballero
 
-I'm a programmer student. Since I was 12 years old(now I am 20 years old), I have been learning to develop videogames as a hobbie, and 2 years ago, I started studying it officially. 
+I'm a programmer student. Since I was 12 years old(now I am 24 years old), I have been learning to develop videogames as a hobbie, and now i'm studying computer engineering.
 
 ## Skills
 
@@ -16,9 +16,9 @@ I enjoy working in teams and helping everyone to reach a common goal. There is n
 ## Education
 | COURSE | Description | Place | Year |
 | ----------- | ----------- | ----------- | ----------- |
-| ESO | Educación Secundaria Obligatoria | La Anunciata Fesd | 2017 |
-| SMIR | Sistemas MicroInformáticos y Redes | CIP Eti.Tudela | 2019 |
-| DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2021 |
+| SMIR | Sistemas MicroInformáticos y Redes | CIP Eti.Tudela | 2017-2019 |
+| DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2019-2021 |
+| COMP | Desarrollo de Aplicaciones Multiplataforma | Unizar.Zaragoza | 2021-**** |
 
 ## Hobbies
 Obviously I like programming, especially videogames, and I love to play them too.I like music, especially rock music. I also play the guitar.
