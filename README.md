@@ -18,7 +18,7 @@ I enjoy working in teams and helping everyone to reach a common goal. There is n
 | ----------- | ----------- | ----------- | ----------- |
 | SMIR | Sistemas MicroInformáticos y Redes | CIP Eti.Tudela | 2017-2019 |
 | DAM | Desarrollo de Aplicaciones Multiplataforma | IES Tubalcaín.Tarazona| 2019-2021 |
-| COMP | Desarrollo de Aplicaciones Multiplataforma | Unizar.Zaragoza | 2021-**** |
+| IINF | Ingenieria informática | Unizar.Zaragoza | 2021-**** |
 
 ## Hobbies
 Obviously I like programming, especially videogames, and I love to play them too.I like music, especially rock music. I also play the guitar.
