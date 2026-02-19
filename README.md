@@ -1,6 +1,6 @@
 # Saul Caballero
 
-I'm a programmer student. Since I was 12 years old(now I am 24 years old), I have been learning to develop videogames as a hobbie, and now i'm studying computer engineering.
+I'm a programmer student. Since I was 12 years old(now I am 25 years old), I have been learning to develop videogames as a hobbie, and now i'm studying computer engineering.
 
 ## Skills
 
